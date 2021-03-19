@@ -1,0 +1,365 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html,
+body {
+    font-family: Myriad Pro;
+    font-size: 14px;
+    background: F3F6FB;
+    line-height: 16px;
+    display: grid;
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0px;
+}
+.template {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.clear {
+    overflow: hidden;
+}
+.hedersection {
+    background: url("images/Group 76.png");
+    background-repeat: round;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+}
+.header {
+    margin-bottom: 94px;
+}
+.logo {
+    width: 351px;
+    float: left;
+}
+.logo img {
+    width: 11%;
+    margin: 17px 66px;
+}
+.nav {
+    float: right;
+}
+.nav ul {
+    list-style: none;
+    padding: 23px 63px;
+}
+.nav ul li {
+    float: left;
+    padding: 0px 5px;
+}
+.nav ul li a {
+    text-decoration: none;
+    font-size: 17px;
+    color: #efefef;
+}
+.nav ul li a:hover {
+}
+.services {
+    width: 100%;
+    float: left;
+    overflow: hidden;
+    margin: 18px 0px;
+}
+.dog_info {
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+    line-height: 22px;
+}
+.dog_info h1 {
+    font-size: 43px;
+    margin-bottom: 26px;
+}
+.dog_info button {
+    background: #4487ff;
+    border: none;
+    padding: 11px 18px;
+    border-radius: 26px;
+    color: #fff;
+    float: left;
+}
+.dog_info p {
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+.dog_image {
+    float: right;
+    width: 47%;
+}
+.dog_image img {
+    width: 60%;
+    margin-left: 113px;
+}
+.dog_info h6 {
+    margin-top: 3%;
+    float: right;
+    margin-right: 40%;
+}
+.iner_info {
+    text-align: left;
+    margin-left: 71px;
+}
+
+.container_section {
+    background: url("images/Group 75 copy 3.png");
+    background-repeat: round;
+    width: 100%;
+    height: 100%;
+    margin-top: -33px;
+}
+.our_service {
+    height: 800px;
+    margin-bottom: 97px;
+    overflow: visible;
+}
+.service_info {
+    float: left;
+    width: 41%;
+    /*! padding: 0px 94px; */
+    margin-top: 185px;
+    margin-left: 111px;
+}
+.service_info h2 {
+    color: #fc8070;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 65px;
+}
+.service_info p {
+    color: #8e8e8e;
+    margin-bottom: 17px;
+}
+.service_info h4 {
+    color: #fc8070;
+}
+.service_info img {
+    width: 39%;
+}
+.service_product {
+    float: right;
+    width: 47%;
+    margin: 59px 0px;
+}
+.service_product img {
+    width: 55%;
+    margin-left: 48px;
+    margin-top: 163px;
+}
+.pet_owner {
+}
+.pet_owner h2 {
+}
+.owner_img {
+}
+.owner_img img {
+}
+.carousel {
+    top: -253px;
+}
+.carousel h2 {
+    color: red;
+    text-align: center;
+}
+.demo-wrap .demo {
+    top: -114px;
+}
+
+.slide-wrap .pic-tit {
+    background: none;
+}
+.slide-wrap {
+    height: 100%;
+}
+.slide-wrap .inner {
+    border: 0;
+}
+
+.next {
+    right: 84px;
+}
+.prev {
+    left: 123px;
+}
+.arrow {
+    background-color: #fd6845;
+}
+#biner3 {
+    margin-top: 20px;
+    height: 40%;
+    border-radius: 11px;
+}
+
+#biner1 {
+    height: 24%;
+}
+#biner2 {
+    height: 29%;
+    border-radius: 10px;
+}
+#biner4 {
+    height: 29%;
+    border-radius: 10px;
+}
+#biner5 {
+    height: 23%;
+}
+
+.working_section {
+    width: 100%;
+    margin-top: -43%;
+}
+.working_area {
+}
+.recycle {
+    width: 46%;
+    float: left;
+    margin-top: 137px;
+}
+.recycle img {
+    width: 74%;
+    margin-top: 94px;
+    margin-left: 15px;
+}
+.recycle span img {
+    float: left;
+    width: 18%;
+    margin-top: 117%;
+}
+.shpe_area {
+    width: 45%;
+    float: right;
+    margin-left: 59px;
+}
+.shape_work {
+    z-index: 99;
+    position: absolute;
+    margin-top: 106px;
+    margin-left: 38px;
+}
+.shape_work h3 {
+    color: red;
+    font-weight: normal;
+    margin: 20px auto;
+}
+.shape_work p {
+    font-size: 12px;
+    color: #aaa;
+    margin: 21px auto;
+}
+.shape_work h6 {
+    color: red;
+    margin: 15px auto;
+}
+.shape_work img {
+    width: 47%;
+}
+.shpe_img {
+    width: 20%;
+    float: right;
+    margin-right: 263px;
+}
+.shpe_img img {
+    width: 419%;
+}
+.join_us_section {
+    margin-top: -107px;
+    margin-bottom: 45px;
+}
+.join1 {
+}
+.join1 img {
+    width: 64%;
+    margin-left: 187px;
+}
+.join2 {
+}
+.join2 {
+}
+.join2 h4 {
+}
+.join2 img {
+    width: 64%;
+    margin-left: 187px;
+    margin-top: 53px;
+}
+
+.footer_section {
+    background: url("images/Ellipse 19.png") no-repeat;
+    background-size: 1023px;
+    width: 100%;
+    height: 262px;
+}
+
+.footer {
+    /*! width: 22%; */
+    float: left;
+    margin: 55px 46px;
+}
+.footer h5 {
+    color: yellow;
+    margin-bottom: 15px;
+}
+.footer ul {
+}
+.footer ul li {
+    color: #fff;
+    line-height: 25px;
+}
+.footer p {
+    color: #fff;
+}
+.footer form {
+}
+.footer input[type="text"] {
+    width: 102%;
+    height: 38px;
+    padding: 11px;
+    border: none;
+    border-radius: 35px;
+    position: relative;
+    margin: 10px auto;
+}
+.footer button {
+    cursor: pointer;
+    color: #fff;
+    background: #ff6752;
+    position: absolute;
+    margin-top: -43px;
+    margin-left: 157px;
+    border: none;
+    padding: 7px;
+    border-radius: 25px;
+}
+.social_icon {
+}
+.social_icon ul li {
+    display: inline-block;
+    margin: 10px 10px;
+}
+.copyright-section {
+	background: #535353;
+	color: #fff;
+	height: 50px;
+	width: 960px;
+	margin: 0 auto;
+}
+.copyright-section p {
+	text-align: center;
+	margin-top: 18px;
+}
